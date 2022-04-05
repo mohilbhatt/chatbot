@@ -1,0 +1,590 @@
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+a6861ba8-8817-4929-a009-4ee8997149e8
+Browser : a6861ba8-8817-4929-a009-4ee8997149e8*Chrome
+Type : Chrome100
+Win32 : True
+Platform : WinNT
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
+Hostname : a6861ba8-8817-4929-a009-4ee8997149e8$182.77.120.181
+Userary : System.String[]
+UserLang : en-US
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+a6861ba8-8817-4929-a009-4ee8997149e8#Sweety
+
+4/4/2022 3:22:13 PM :  Chat Ans: a6861ba8-8817-4929-a009-4ee8997149e8->IT Solutions 
+
+4/4/2022 3:22:15 PM :  Chat Ans: a6861ba8-8817-4929-a009-4ee8997149e8->SAP Solutions
+
+4/4/2022 3:22:23 PM :  Chat Ans: a6861ba8-8817-4929-a009-4ee8997149e8->Through web
+
+4/4/2022 3:22:27 PM :  Chat Ans: a6861ba8-8817-4929-a009-4ee8997149e8->Yes
+
+4/4/2022 3:22:29 PM :  Chat Ans: a6861ba8-8817-4929-a009-4ee8997149e8->Main Menu
+
+4/4/2022 3:22:31 PM :  Chat Ans: a6861ba8-8817-4929-a009-4ee8997149e8->Software Development
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+a9ac6b13-486f-4863-be46-8b13badaf627
+Browser : a9ac6b13-486f-4863-be46-8b13badaf627*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+Hostname : a9ac6b13-486f-4863-be46-8b13badaf627$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+a9ac6b13-486f-4863-be46-8b13badaf627#Mitul
+
+4/4/2022 3:33:55 PM :  Chat Ans: a9ac6b13-486f-4863-be46-8b13badaf627->IT Solutions 
+
+4/4/2022 3:34:02 PM :  Chat Ans: a9ac6b13-486f-4863-be46-8b13badaf627->Enterprise Mobility
+
+4/4/2022 3:34:16 PM :  Chat Ans: a9ac6b13-486f-4863-be46-8b13badaf627->Through web
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+1504433f-7bf2-411a-9407-899b4a7d2aea
+Browser : 1504433f-7bf2-411a-9407-899b4a7d2aea*Chrome
+Type : Chrome100
+Win32 : True
+Platform : WinNT
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36
+Hostname : 1504433f-7bf2-411a-9407-899b4a7d2aea$49.34.66.29
+Userary : System.String[]
+UserLang : en-US
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+1504433f-7bf2-411a-9407-899b4a7d2aea#Saniyaaaa
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+895e1766-645e-4d8b-b10e-ea16602b2c27
+Browser : 895e1766-645e-4d8b-b10e-ea16602b2c27*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : 895e1766-645e-4d8b-b10e-ea16602b2c27$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+895e1766-645e-4d8b-b10e-ea16602b2c27#Mohil
+
+4/4/2022 3:36:47 PM :  Chat Ans: 895e1766-645e-4d8b-b10e-ea16602b2c27->IT Service Support
+
+4/4/2022 3:36:51 PM :  Chat Ans: 1504433f-7bf2-411a-9407-899b4a7d2aea->Software Development
+
+4/4/2022 3:36:52 PM :  Chat Ans: 1504433f-7bf2-411a-9407-899b4a7d2aea->Customer Technical Support
+
+4/4/2022 3:36:52 PM :  Chat Ans: 895e1766-645e-4d8b-b10e-ea16602b2c27->Robotic Process Automation
+
+4/4/2022 3:36:58 PM :  Chat Ans: 895e1766-645e-4d8b-b10e-ea16602b2c27->E-mail
+
+4/4/2022 3:37:01 PM :  Chat Ans: 1504433f-7bf2-411a-9407-899b4a7d2aea->Through web
+
+4/4/2022 3:37:06 PM :  Chat Ans: 1504433f-7bf2-411a-9407-899b4a7d2aea->Yes
+
+4/4/2022 3:37:06 PM :  Chat Ans: 895e1766-645e-4d8b-b10e-ea16602b2c27??Mohilb201@gmail.com
+
+4/4/2022 3:37:09 PM :  Chat Ans: 1504433f-7bf2-411a-9407-899b4a7d2aea->Main Menu
+
+4/4/2022 3:37:11 PM :  Chat Ans: 1504433f-7bf2-411a-9407-899b4a7d2aea->Let's Talk
+
+4/4/2022 3:37:18 PM :  Chat Ans: 895e1766-645e-4d8b-b10e-ea16602b2c27->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf
+Browser : 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf#Liam
+
+4/4/2022 3:37:51 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf->IT Service Support
+
+4/4/2022 3:37:55 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf->Technology Consultation
+
+4/4/2022 3:38:01 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf->Request Agent call
+
+4/4/2022 3:38:13 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf??6355483437
+
+4/4/2022 3:38:20 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf??Mohilb201@gmail.com
+
+4/4/2022 3:38:23 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf->Yes
+
+4/4/2022 3:38:39 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf??Email : Mohilb201@gmail.com->Number : 6355483437->Date : Apr 09,2022
+
+4/4/2022 3:38:50 PM :  Chat Ans: 0097ba9a-f3b6-4b51-a5e9-ef90ef23feaf->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+bfc0de2b-314f-43c4-9fee-433c87b11440
+Browser : bfc0de2b-314f-43c4-9fee-433c87b11440*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : bfc0de2b-314f-43c4-9fee-433c87b11440$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+bfc0de2b-314f-43c4-9fee-433c87b11440#Het
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+47f1a00a-481f-4cb6-b77a-84fcca846ac2
+Browser : 47f1a00a-481f-4cb6-b77a-84fcca846ac2*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+Hostname : 47f1a00a-481f-4cb6-b77a-84fcca846ac2$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+47f1a00a-481f-4cb6-b77a-84fcca846ac2#Noah
+
+4/4/2022 3:40:04 PM :  Chat Ans: bfc0de2b-314f-43c4-9fee-433c87b11440->IT Solutions 
+
+4/4/2022 3:40:06 PM :  Chat Ans: 47f1a00a-481f-4cb6-b77a-84fcca846ac2->Software Development
+
+4/4/2022 3:40:09 PM :  Chat Ans: bfc0de2b-314f-43c4-9fee-433c87b11440->Business Intelligence 
+
+4/4/2022 3:40:10 PM :  Chat Ans: 47f1a00a-481f-4cb6-b77a-84fcca846ac2->Methodology 
+
+4/4/2022 3:40:20 PM :  Chat Ans: bfc0de2b-314f-43c4-9fee-433c87b11440->Through web
+
+4/4/2022 3:40:22 PM :  Chat Ans: 47f1a00a-481f-4cb6-b77a-84fcca846ac2->E-mail
+
+4/4/2022 3:40:52 PM :  Chat Ans: 47f1a00a-481f-4cb6-b77a-84fcca846ac2??Mitulsolanki789@gmail.com
+
+4/4/2022 3:41:04 PM :  Chat Ans: 47f1a00a-481f-4cb6-b77a-84fcca846ac2->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+35925770-c1e4-4525-bbb1-4c8c5c326a2d
+Browser : 35925770-c1e4-4525-bbb1-4c8c5c326a2d*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+Hostname : 35925770-c1e4-4525-bbb1-4c8c5c326a2d$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+35925770-c1e4-4525-bbb1-4c8c5c326a2d#Ava
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0
+Browser : b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0*Chrome
+Type : Chrome99
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+Hostname : b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0$49.34.110.58
+Userary : System.String[]
+UserLang : en-GB
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0#Bomit
+
+4/4/2022 3:42:21 PM :  Chat Ans: 35925770-c1e4-4525-bbb1-4c8c5c326a2d->Career
+
+4/4/2022 3:42:25 PM :  Chat Ans: 35925770-c1e4-4525-bbb1-4c8c5c326a2d->Yes
+
+4/4/2022 3:42:28 PM :  Chat Ans: b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0->IT Solutions 
+
+4/4/2022 3:42:31 PM :  Chat Ans: b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0->VOIP Solutions 
+
+4/4/2022 3:42:34 PM :  Chat Ans: 35925770-c1e4-4525-bbb1-4c8c5c326a2d->Yes
+
+4/4/2022 3:42:37 PM :  Chat Ans: 35925770-c1e4-4525-bbb1-4c8c5c326a2d->Main Menu
+
+4/4/2022 3:42:44 PM :  Chat Ans: b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0->Through web
+
+4/4/2022 3:42:52 PM :  Chat Ans: 35925770-c1e4-4525-bbb1-4c8c5c326a2d->Social Media
+
+4/4/2022 3:42:57 PM :  Chat Ans: 35925770-c1e4-4525-bbb1-4c8c5c326a2d->No
+
+4/4/2022 3:42:58 PM :  Chat Ans: b3df95b9-ec9a-4b4c-a4a6-f289e9c35ca0->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+a162d0cb-9100-43da-9f14-185302489655
+Browser : a162d0cb-9100-43da-9f14-185302489655*Chrome
+Type : Chrome99
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+Hostname : a162d0cb-9100-43da-9f14-185302489655$49.34.110.58
+Userary : System.String[]
+UserLang : en-GB
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+a162d0cb-9100-43da-9f14-185302489655#Olivia
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+721e7488-760e-43eb-af6c-770cbe20e685
+Browser : 721e7488-760e-43eb-af6c-770cbe20e685*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+Hostname : 721e7488-760e-43eb-af6c-770cbe20e685$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+721e7488-760e-43eb-af6c-770cbe20e685#Vishal
+
+4/4/2022 3:43:39 PM :  Chat Ans: a162d0cb-9100-43da-9f14-185302489655->Social Media
+
+4/4/2022 3:43:39 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685->IT Solutions 
+
+4/4/2022 3:43:41 PM :  Chat Ans: a162d0cb-9100-43da-9f14-185302489655->Yes
+
+4/4/2022 3:43:44 PM :  Chat Ans: a162d0cb-9100-43da-9f14-185302489655->Main Menu
+
+4/4/2022 3:43:46 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685->CRM - Business Suite
+
+4/4/2022 3:43:48 PM :  Chat Ans: a162d0cb-9100-43da-9f14-185302489655->Career
+
+4/4/2022 3:43:53 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685->No
+
+4/4/2022 3:44:06 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685->Request Agent call
+
+4/4/2022 3:44:08 PM :  Chat Ans: a162d0cb-9100-43da-9f14-185302489655->Yes
+
+4/4/2022 3:44:11 PM :  Chat Ans: a162d0cb-9100-43da-9f14-185302489655->No
+
+4/4/2022 3:44:20 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685??9723589789
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+58fe6d12-be6f-4c5f-ab26-d49684618e73
+Browser : 58fe6d12-be6f-4c5f-ab26-d49684618e73*Chrome
+Type : Chrome99
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+Hostname : 58fe6d12-be6f-4c5f-ab26-d49684618e73$49.34.110.58
+Userary : System.String[]
+UserLang : en-GB
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+58fe6d12-be6f-4c5f-ab26-d49684618e73#Emma
+
+4/4/2022 3:44:41 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685??Mitulsolanki789@gmail.com
+
+4/4/2022 3:44:48 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685->Yes
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+f4909acc-fcf5-424d-97c3-fb886c9d6d67
+Browser : f4909acc-fcf5-424d-97c3-fb886c9d6d67*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : f4909acc-fcf5-424d-97c3-fb886c9d6d67$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+f4909acc-fcf5-424d-97c3-fb886c9d6d67#Charlotte
+
+4/4/2022 3:44:57 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685??Email : Mitulsolanki789@gmail.com->Number : 9723589789->Date : Apr 05,2022
+
+4/4/2022 3:44:59 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67->Software Development
+
+4/4/2022 3:45:01 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67->Customer Technical Support
+
+4/4/2022 3:45:10 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67->Request Agent call
+
+4/4/2022 3:45:15 PM :  Chat Ans: 721e7488-760e-43eb-af6c-770cbe20e685->No
+
+4/4/2022 3:45:19 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67??9879002310
+
+4/4/2022 3:45:37 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67??Mohilb06@gmail.com
+
+4/4/2022 3:45:41 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67->Yes
+
+4/4/2022 3:45:51 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67??Email : Mohilb06@gmail.com->Number : 9879002310->Date : Apr 06,2022
+
+4/4/2022 3:46:05 PM :  Chat Ans: f4909acc-fcf5-424d-97c3-fb886c9d6d67->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+78e931b0-f3b3-4593-b59e-1b8dfd2046db
+Browser : 78e931b0-f3b3-4593-b59e-1b8dfd2046db*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+Hostname : 78e931b0-f3b3-4593-b59e-1b8dfd2046db$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+78e931b0-f3b3-4593-b59e-1b8dfd2046db#Arjun
+
+4/4/2022 3:46:33 PM :  Chat Ans: 78e931b0-f3b3-4593-b59e-1b8dfd2046db->Let's Talk
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+8a868120-3bbe-40f6-b219-4c360af5d7da
+Browser : 8a868120-3bbe-40f6-b219-4c360af5d7da*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36
+Hostname : 8a868120-3bbe-40f6-b219-4c360af5d7da$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+8a868120-3bbe-40f6-b219-4c360af5d7da#Devam
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+ccc7f17d-68b3-435e-889f-f560612fa564
+Browser : ccc7f17d-68b3-435e-889f-f560612fa564*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : ccc7f17d-68b3-435e-889f-f560612fa564$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+ccc7f17d-68b3-435e-889f-f560612fa564#William
+
+4/4/2022 3:47:14 PM :  Chat Ans: 8a868120-3bbe-40f6-b219-4c360af5d7da->IT Service Support
+
+4/4/2022 3:47:16 PM :  Chat Ans: ccc7f17d-68b3-435e-889f-f560612fa564->IT Service Support
+
+4/4/2022 3:47:18 PM :  Chat Ans: 8a868120-3bbe-40f6-b219-4c360af5d7da->Technology Consultation
+
+4/4/2022 3:47:22 PM :  Chat Ans: ccc7f17d-68b3-435e-889f-f560612fa564->ERP Implemetation
+
+4/4/2022 3:47:30 PM :  Chat Ans: 8a868120-3bbe-40f6-b219-4c360af5d7da->Through web
+
+4/4/2022 3:47:32 PM :  Chat Ans: ccc7f17d-68b3-435e-889f-f560612fa564->Through web
+
+4/4/2022 3:47:41 PM :  Chat Ans: 8a868120-3bbe-40f6-b219-4c360af5d7da->No
+
+4/4/2022 3:47:42 PM :  Chat Ans: ccc7f17d-68b3-435e-889f-f560612fa564->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+bdd1aa66-a118-46c2-aad3-3b2e7dbd8952
+Browser : bdd1aa66-a118-46c2-aad3-3b2e7dbd8952*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : bdd1aa66-a118-46c2-aad3-3b2e7dbd8952$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+bdd1aa66-a118-46c2-aad3-3b2e7dbd8952#Sophia
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+6346eb6f-64d2-4978-9868-855708981704
+Browser : 6346eb6f-64d2-4978-9868-855708981704*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; U; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.101 Mobile Safari/537.36 OPR/56.1.2254.57583
+Hostname : 6346eb6f-64d2-4978-9868-855708981704$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+6346eb6f-64d2-4978-9868-855708981704#Mit
+
+4/4/2022 3:49:01 PM :  Chat Ans: 6346eb6f-64d2-4978-9868-855708981704->IT Solutions 
+
+4/4/2022 3:49:01 PM :  Chat Ans: bdd1aa66-a118-46c2-aad3-3b2e7dbd8952->IT Service Support
+
+4/4/2022 3:49:04 PM :  Chat Ans: 6346eb6f-64d2-4978-9868-855708981704->Enterprise Solutions
+
+4/4/2022 3:49:05 PM :  Chat Ans: bdd1aa66-a118-46c2-aad3-3b2e7dbd8952->Technology Consultation
+
+4/4/2022 3:49:12 PM :  Chat Ans: bdd1aa66-a118-46c2-aad3-3b2e7dbd8952->Through web
+
+4/4/2022 3:49:13 PM :  Chat Ans: 6346eb6f-64d2-4978-9868-855708981704->Through web
+
+4/4/2022 3:49:16 PM :  Chat Ans: bdd1aa66-a118-46c2-aad3-3b2e7dbd8952->No
+
+4/4/2022 3:49:22 PM :  Chat Ans: 6346eb6f-64d2-4978-9868-855708981704->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+d350b4a9-e3f6-497a-b3e8-52f17c47947a
+Browser : d350b4a9-e3f6-497a-b3e8-52f17c47947a*Chrome
+Type : Chrome98
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Linux; U; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4758.101 Mobile Safari/537.36 OPR/56.1.2254.57583
+Hostname : d350b4a9-e3f6-497a-b3e8-52f17c47947a$49.34.252.144
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+d350b4a9-e3f6-497a-b3e8-52f17c47947a#Mihir
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98
+Browser : 8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : 8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98#Martin
+
+4/4/2022 3:49:58 PM :  Chat Ans: d350b4a9-e3f6-497a-b3e8-52f17c47947a->IT Service Support
+
+4/4/2022 3:49:59 PM :  Chat Ans: 8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98->IT Service Support
+
+4/4/2022 3:50:02 PM :  Chat Ans: d350b4a9-e3f6-497a-b3e8-52f17c47947a->Robotic Process Automation
+
+4/4/2022 3:50:06 PM :  Chat Ans: 8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98->Enterprise Application Integration 
+
+4/4/2022 3:50:09 PM :  Chat Ans: d350b4a9-e3f6-497a-b3e8-52f17c47947a->Through web
+
+4/4/2022 3:50:11 PM :  Chat Ans: 8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98->Through web
+
+4/4/2022 3:50:14 PM :  Chat Ans: 8ebafb92-d2e8-4646-b9b9-ccaf7dd0ae98->No
+
+4/4/2022 3:50:14 PM :  Chat Ans: d350b4a9-e3f6-497a-b3e8-52f17c47947a->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+2008c4be-9482-4445-8aa3-c655d1849ea5
+Browser : 2008c4be-9482-4445-8aa3-c655d1849ea5*Safari
+Type : Safari15
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+Hostname : 2008c4be-9482-4445-8aa3-c655d1849ea5$49.34.110.58
+Userary : System.String[]
+UserLang : en-IN
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+2008c4be-9482-4445-8aa3-c655d1849ea5#Rupesh
+
+4/4/2022 3:51:56 PM :  Chat Ans: 2008c4be-9482-4445-8aa3-c655d1849ea5->IT Solutions 
+
+4/4/2022 3:52:00 PM :  Chat Ans: 2008c4be-9482-4445-8aa3-c655d1849ea5->CRM - Business Suite
+
+4/4/2022 3:52:04 PM :  Chat Ans: 2008c4be-9482-4445-8aa3-c655d1849ea5->Yes
+
+4/4/2022 3:52:09 PM :  Chat Ans: 2008c4be-9482-4445-8aa3-c655d1849ea5->Liquor Store
+
+4/4/2022 3:52:16 PM :  Chat Ans: 2008c4be-9482-4445-8aa3-c655d1849ea5->Through web
+
+4/4/2022 3:52:25 PM :  Chat Ans: 2008c4be-9482-4445-8aa3-c655d1849ea5->No
+
+-----------------------------------------------------------------User Details!!!-----------------------------------------------------------------
+5ce2f69a-9160-449d-89bb-aa8f31f2278e
+Browser : 5ce2f69a-9160-449d-89bb-aa8f31f2278e*Safari
+Type : Safari14
+Win32 : False
+Platform : Unknown
+Frames : True
+Cookies : True
+Crawler : False
+UserAgent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15
+Hostname : 5ce2f69a-9160-449d-89bb-aa8f31f2278e$49.34.110.58
+Userary : System.String[]
+UserLang : en-gb
+RequestURL : https://selfcare.servebbs.org/WebService/WebService1.asmx/FNameSave
+
+5ce2f69a-9160-449d-89bb-aa8f31f2278e#Mohil
+
+4/4/2022 4:14:26 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e->IT Service Support
+
+4/4/2022 4:14:29 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e->Robotic Process Automation
+
+4/4/2022 4:14:35 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e->Request Agent call
+
+4/4/2022 4:14:42 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e??6355483437
+
+4/4/2022 4:14:49 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e??Mohilb201@gmail.com
+
+4/4/2022 4:14:52 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e->Yes
+
+4/4/2022 4:14:59 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e??Email : Mohilb201@gmail.com->Number : 6355483437->Date : Apr 06,2022
+
+4/4/2022 4:15:09 PM :  Chat Ans: 5ce2f69a-9160-449d-89bb-aa8f31f2278e->No
